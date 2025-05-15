@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(154, 92, 92);
+}
+
+h1 {
+    color: white;
+}
+
+li {
+    padding: 10px;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px;
+}
