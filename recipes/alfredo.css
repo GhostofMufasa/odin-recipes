@@ -7,28 +7,24 @@ body {
     float: left;
 }
 
-img {
-    margin-right: 15px;
-}
-
 .steps {
     clear: both;
     text-align: center;
 }
 
-ol li {
-    list-style: none;
-    margin: 10px;
+img {
+    margin-right: 15px;
 }
 
-h1 {
-    text-align: center;
+ol img {
+    border-radius: 10px;
 }
 
 footer {
     text-align: center;
 }
 
-ol img {
-    border-radius: 10px;
+ol li {
+    list-style: none;
+    margin: 10px;
 }
